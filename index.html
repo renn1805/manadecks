@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ManaDeck</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <aside class="sidebar">
+    <div class="brand">
+      <span class="brand-mark">M</span>
+      <span class="brand-name">ManaDeck</span>
+    </div>
+    <nav class="nav">
+      <button type="button" class="nav-item" data-view="home">Início</button>
+      <button type="button" class="nav-item" data-view="search">Pesquisar cartas</button>
+    </nav>
+    <div class="sidebar-foot">
+      <button type="button" class="nav-item" id="btn-export">Exportar dados</button>
+      <button type="button" class="nav-item" id="btn-import">Importar dados</button>
+      <input type="file" id="file-import" accept=".json,application/json" hidden>
+      <button type="button" class="nav-item" id="btn-theme">Tema escuro</button>
+    </div>
+  </aside>
+
+  <main id="view" class="main"></main>
+  <div id="toasts"></div>
+
+  <script src="js/ui.js"></script>
+  <script src="js/storage.js"></script>
+  <script src="js/scryfall.js"></script>
+  <script src="js/cards.js"></script>
+  <script src="js/statistics.js"></script>
+  <script src="js/decks.js"></script>
+  <script src="js/backup.js"></script>
+  <script src="js/navigation.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

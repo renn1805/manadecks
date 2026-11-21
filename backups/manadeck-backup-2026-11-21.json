@@ -1,0 +1,1253 @@
+{
+  "app": "manadeck",
+  "version": 1,
+  "exportedAt": "2026-11-21T19:08:37.782Z",
+  "decks": [
+    {
+      "id": "deck-mwqmn64b-hi7hlv",
+      "name": "the mindskinner",
+      "leagueUrl": "https://www.ligamagic.com.br/?view=dks/deck&id=10302253",
+      "format": "Commander",
+      "colors": [
+        "U"
+      ],
+      "description": "Um deck commander que se baseia em millar as cartas dos oponentes com o comandante The Mindskinner",
+      "cards": [
+        {
+          "id": "7f1bb4c5-99be-46cc-ad54-7affb5f0144c",
+          "oracleId": "2e3ec514-fc9e-4964-a493-2a6cc9e63630",
+          "name": "The Mindskinner",
+          "quantity": 1,
+          "manaCost": "{U}{U}{U}",
+          "cmc": 3,
+          "typeLine": "Legendary Enchantment Creature — Nightmare",
+          "printedTypeLine": null,
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/7/f/7f1bb4c5-99be-46cc-ad54-7affb5f0144c.jpg?1783909491",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/7/f/7f1bb4c5-99be-46cc-ad54-7affb5f0144c.jpg?1783909491"
+        },
+        {
+          "id": "6bbe8ec5-5b67-4e85-9958-9bf172db5967",
+          "oracleId": "74255add-2894-4c31-81c1-d38873fa325f",
+          "name": "Arauta do Manto de Bruma",
+          "quantity": 1,
+          "manaCost": "{U}",
+          "cmc": 1,
+          "typeLine": "Creature — Merfolk Warrior",
+          "printedTypeLine": "Criatura — Tritão Guerreiro",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/6/b/6bbe8ec5-5b67-4e85-9958-9bf172db5967.jpg?1782929275",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/6/b/6bbe8ec5-5b67-4e85-9958-9bf172db5967.jpg?1782929275",
+          "owned": false
+        },
+        {
+          "id": "6b6299fa-703e-4b5b-96ae-99a5a9390ae3",
+          "oracleId": "dd70d439-bd60-43d1-ac26-13b744cc4a37",
+          "name": "Escudo dos Concordantes",
+          "quantity": 2,
+          "manaCost": "{0}",
+          "cmc": 0,
+          "typeLine": "Artifact — Equipment",
+          "printedTypeLine": "Artefato — Equipamento",
+          "colors": [],
+          "colorIdentity": [],
+          "imageUrl": "https://cards.scryfall.io/normal/front/6/b/6b6299fa-703e-4b5b-96ae-99a5a9390ae3.jpg?1782976025",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/6/b/6b6299fa-703e-4b5b-96ae-99a5a9390ae3.jpg?1782976025",
+          "originalName": "Accorder's Shield",
+          "status": "buy"
+        },
+        {
+          "id": "05b45a28-fd6f-4422-a0d7-9a7f7f516ac4",
+          "oracleId": "16e555f2-5aa8-4100-a036-eed48db0e84a",
+          "name": "Serra Óssea",
+          "quantity": 1,
+          "manaCost": "{0}",
+          "cmc": 0,
+          "typeLine": "Artifact — Equipment",
+          "printedTypeLine": "Artefato — Equipamento",
+          "colors": [],
+          "colorIdentity": [],
+          "imageUrl": "https://cards.scryfall.io/normal/front/0/5/05b45a28-fd6f-4422-a0d7-9a7f7f516ac4.jpg?1782838994",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/0/5/05b45a28-fd6f-4422-a0d7-9a7f7f516ac4.jpg?1782838994",
+          "originalName": "Bone Saw",
+          "status": "buy"
+        },
+        {
+          "id": "8ec8a13c-6d44-4363-95b4-357adc74be8e",
+          "oracleId": "b36271cb-cda2-434a-a580-6050dc460409",
+          "name": "Distração Efêmera",
+          "quantity": 1,
+          "manaCost": "{U}",
+          "cmc": 1,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/8/e/8ec8a13c-6d44-4363-95b4-357adc74be8e.jpg?1782985154",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/8/e/8ec8a13c-6d44-4363-95b4-357adc74be8e.jpg?1782985154",
+          "originalName": "Fleeting Distraction",
+          "status": "buy"
+        },
+        {
+          "id": "bd4ec145-920b-45e5-9eca-b60fd8a3016f",
+          "oracleId": "ab56df8f-0ba3-4d66-bde2-4c9b4acf07e5",
+          "name": "Fantasma de Jace",
+          "quantity": 1,
+          "manaCost": "{U}",
+          "cmc": 1,
+          "typeLine": "Creature — Illusion",
+          "printedTypeLine": "Criatura — Ilusão",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/b/d/bd4ec145-920b-45e5-9eca-b60fd8a3016f.jpg?1782982795",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/b/d/bd4ec145-920b-45e5-9eca-b60fd8a3016f.jpg?1782982795"
+        },
+        {
+          "id": "2e904f3a-d8a2-4557-ad41-a1e2660a97ca",
+          "oracleId": "f8ad2f88-72ae-4e47-beb5-25a6dacc709b",
+          "name": "Atalaia da Expedição",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Creature — Merfolk Rogue",
+          "printedTypeLine": "Criatura — Tritão Ladino",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/2/e/2e904f3a-d8a2-4557-ad41-a1e2660a97ca.jpg?1782825397",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/2/e/2e904f3a-d8a2-4557-ad41-a1e2660a97ca.jpg?1782825397",
+          "status": "buy"
+        },
+        {
+          "id": "b48023ac-40f9-407a-9a1e-e291253e0301",
+          "oracleId": "3a2bb47d-228d-499e-a34b-9e10d99e9b2c",
+          "name": "Banco de Nevoeiro",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Creature — Wall",
+          "printedTypeLine": "Criatura — Barreira",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/b/4/b48023ac-40f9-407a-9a1e-e291253e0301.jpg?1782982831",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/b/4/b48023ac-40f9-407a-9a1e-e291253e0301.jpg?1782982831",
+          "status": "buy"
+        },
+        {
+          "id": "ae717b73-bf01-4137-8f0d-fc53fe924a1a",
+          "oracleId": "ecd6587c-3548-4bc1-89e4-9f7fbbc2d2ad",
+          "name": "Dragonete Cerúleo",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Creature — Drake",
+          "printedTypeLine": "Criatura — Dragonete",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/a/e/ae717b73-bf01-4137-8f0d-fc53fe924a1a.jpg?1782917971",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/a/e/ae717b73-bf01-4137-8f0d-fc53fe924a1a.jpg?1782917971",
+          "status": "buy"
+        },
+        {
+          "id": "04f97270-0a91-40d1-82d5-b3dd1b004d05",
+          "oracleId": "4280191f-e2cb-4cee-a3b4-660b3efd62e9",
+          "name": "Eidolon Passoleve",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Enchantment Creature — Spirit",
+          "printedTypeLine": "Criatura Encantamento — Espírito",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/0/4/04f97270-0a91-40d1-82d5-b3dd1b004d05.jpg?1782972819",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/0/4/04f97270-0a91-40d1-82d5-b3dd1b004d05.jpg?1782972819",
+          "status": "buy"
+        },
+        {
+          "id": "551cfe37-77ae-4066-ba4d-55539e4e4ccd",
+          "oracleId": "15fee0bd-ede2-4f65-a9a1-2da4623679d5",
+          "name": "Ficção Etérea",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Creature — Illusion",
+          "printedTypeLine": "Criatura — Ilusão",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/5/5/551cfe37-77ae-4066-ba4d-55539e4e4ccd.jpg?1783000259",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/5/5/551cfe37-77ae-4066-ba4d-55539e4e4ccd.jpg?1783000259",
+          "status": "buy"
+        },
+        {
+          "id": "6abfe81b-1921-46ae-95d3-db70613c0e3a",
+          "oracleId": "678095cc-ec8f-471a-b675-e59905d65c33",
+          "name": "Furtiva do Rio",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Creature — Merfolk Warrior",
+          "printedTypeLine": "Criatura — Tritão Guerreiro",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/6/a/6abfe81b-1921-46ae-95d3-db70613c0e3a.jpg?1782937970",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/6/a/6abfe81b-1921-46ae-95d3-db70613c0e3a.jpg?1782937970",
+          "status": "buy"
+        },
+        {
+          "id": "320bc30c-7a8a-411a-9f36-9c69126e131b",
+          "oracleId": "6d7f7e6e-5076-4af7-afe3-3e500835c4aa",
+          "name": "Gravelgill Scoundrel",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Creature — Merfolk Rogue",
+          "printedTypeLine": null,
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/3/2/320bc30c-7a8a-411a-9f36-9c69126e131b.jpg?1783904490",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/3/2/320bc30c-7a8a-411a-9f36-9c69126e131b.jpg?1783904490",
+          "status": "buy"
+        },
+        {
+          "id": "e3d94cc1-9f75-4f9b-84ab-cc103c76e52e",
+          "oracleId": "7cd8b017-8d59-4b55-bb9a-8d8e492ef1ac",
+          "name": "Hacker do Circuito Lunar",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Enchantment Creature — Human Ninja",
+          "printedTypeLine": "Criatura Encantamento — Humano Ninja",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/e/3/e3d94cc1-9f75-4f9b-84ab-cc103c76e52e.jpg?1782862723",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/e/3/e3d94cc1-9f75-4f9b-84ab-cc103c76e52e.jpg?1782862723",
+          "status": "buy"
+        },
+        {
+          "id": "caf9d702-3ab2-4d62-a375-8032614faa3b",
+          "oracleId": "b9ba00f2-b11c-45d8-9c38-f9ade5d07d0f",
+          "name": "Punho-mágico Elusivo",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Creature — Human Monk",
+          "printedTypeLine": "Criatura — Humano Monge",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/c/a/caf9d702-3ab2-4d62-a375-8032614faa3b.jpg?1782963797",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/c/a/caf9d702-3ab2-4d62-a375-8032614faa3b.jpg?1782963797",
+          "status": "buy"
+        },
+        {
+          "id": "d5bf8cf0-419a-4dc9-9342-aad55c1af05a",
+          "oracleId": "c15cad77-e70f-42cc-a9f5-50e1fd8c9c96",
+          "name": "Shoreline Looter",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Creature — Rat Rogue",
+          "printedTypeLine": null,
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/d/5/d5bf8cf0-419a-4dc9-9342-aad55c1af05a.jpg?1783910842",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/d/5/d5bf8cf0-419a-4dc9-9342-aad55c1af05a.jpg?1783910842",
+          "status": "buy"
+        },
+        {
+          "id": "f543e947-9843-4ca0-8c14-a065a10e1903",
+          "oracleId": "e82f46f3-143b-46ae-ab5d-4aa177437a64",
+          "name": "Sintetizador de Icor",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Creature — Phyrexian Wizard",
+          "printedTypeLine": "Criatura — Phyrexiano Mago",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/f/5/f543e947-9843-4ca0-8c14-a065a10e1903.jpg?1782829973",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/f/5/f543e947-9843-4ca0-8c14-a065a10e1903.jpg?1782829973",
+          "status": "buy"
+        },
+        {
+          "id": "4bff1e7f-7317-4726-a1d4-8b7e98098e66",
+          "oracleId": "b723fcec-f208-4397-a178-e1e47b729cf1",
+          "name": "Soldado Metathran",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Creature — Metathran Soldier",
+          "printedTypeLine": null,
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/4/b/4bff1e7f-7317-4726-a1d4-8b7e98098e66.jpg?1783043602",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/4/b/4bff1e7f-7317-4726-a1d4-8b7e98098e66.jpg?1783043602",
+          "status": "buy"
+        },
+        {
+          "id": "36523fc6-c362-4b42-93ac-6ed42ba923ea",
+          "oracleId": "f0f79389-95f1-4110-9d3d-91779bc71604",
+          "name": "Tritã do Porto Cinzento",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Creature — Merfolk Rogue",
+          "printedTypeLine": "Criatura — Tritão Ladino",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/3/6/36523fc6-c362-4b42-93ac-6ed42ba923ea.jpg?1782853368",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/3/6/36523fc6-c362-4b42-93ac-6ed42ba923ea.jpg?1782853368",
+          "status": "buy"
+        },
+        {
+          "id": "1e5a6db8-130a-4931-b7a5-2f024331802b",
+          "oracleId": "093f6123-6b1d-456f-a526-8740bc969b4e",
+          "name": "Gilded Scuttler",
+          "quantity": 1,
+          "manaCost": "{2}{U}",
+          "cmc": 3,
+          "typeLine": "Artifact Creature — Crab",
+          "printedTypeLine": null,
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/1/e/1e5a6db8-130a-4931-b7a5-2f024331802b.jpg?1783908869",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/1/e/1e5a6db8-130a-4931-b7a5-2f024331802b.jpg?1783908869"
+        },
+        {
+          "id": "887ed581-1271-430c-8042-ab6c39b966fd",
+          "oracleId": "b2977807-5f46-424a-a6e9-14262f8a723a",
+          "name": "Infiltrador Bêntico",
+          "quantity": 1,
+          "manaCost": "{2}{U}",
+          "cmc": 3,
+          "typeLine": "Creature — Eldrazi Drone",
+          "printedTypeLine": "Criatura — Eldrazi Zangão",
+          "colors": [],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/8/8/887ed581-1271-430c-8042-ab6c39b966fd.jpg?1782958758",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/8/8/887ed581-1271-430c-8042-ab6c39b966fd.jpg?1782958758",
+          "status": "buy"
+        },
+        {
+          "id": "ccf8c173-0f9b-432d-b419-988ae4893db8",
+          "oracleId": "e7a13f43-1171-4808-9964-c5ad424027cb",
+          "name": "Ninja Fantasma",
+          "quantity": 1,
+          "manaCost": "{1}{U}{U}",
+          "cmc": 3,
+          "typeLine": "Creature — Illusion Ninja",
+          "printedTypeLine": "Criatura — Ilusão Ninja",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/c/c/ccf8c173-0f9b-432d-b419-988ae4893db8.jpg?1782919949",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/c/c/ccf8c173-0f9b-432d-b419-988ae4893db8.jpg?1782919949",
+          "originalName": "Phantom Ninja",
+          "status": "buy"
+        },
+        {
+          "id": "11c82c4f-89d3-4f09-91b6-d52e76c0c721",
+          "oracleId": "b713ee3a-b6cd-4cd7-b403-f0bbc683ea99",
+          "name": "Técnica Discreta",
+          "originalName": "Covert Technician",
+          "quantity": 1,
+          "manaCost": "{2}{U}",
+          "cmc": 3,
+          "typeLine": "Artifact Creature — Human Ninja",
+          "printedTypeLine": "Criatura Artefato — Humano Ninja",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/1/1/11c82c4f-89d3-4f09-91b6-d52e76c0c721.jpg?1782862870",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/1/1/11c82c4f-89d3-4f09-91b6-d52e76c0c721.jpg?1782862870",
+          "status": "buy"
+        },
+        {
+          "id": "65b1722b-753f-4597-bef2-187e2a3c22cb",
+          "oracleId": "ba858b68-ae93-4e1c-8a3a-3e4ac97282e8",
+          "name": "Especialista em Lunilaço",
+          "originalName": "Moonsnare Specialist",
+          "quantity": 1,
+          "manaCost": "{3}{U}",
+          "cmc": 4,
+          "typeLine": "Creature — Human Ninja",
+          "printedTypeLine": "Criatura — Humano Ninja",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/6/5/65b1722b-753f-4597-bef2-187e2a3c22cb.jpg?1782862700",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/6/5/65b1722b-753f-4597-bef2-187e2a3c22cb.jpg?1782862700",
+          "status": "buy"
+        },
+        {
+          "id": "4490aaca-ee6d-4125-820a-9db49ddfba9f",
+          "oracleId": "b8c0c102-f0ef-4ab6-9b1a-ee82ee159c54",
+          "name": "Ladino Mestre das Chaves",
+          "originalName": "Keymaster Rogue",
+          "quantity": 1,
+          "manaCost": "{3}{U}",
+          "cmc": 4,
+          "typeLine": "Creature — Human Rogue",
+          "printedTypeLine": "Criatura — Humano Ladino",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/4/4/4490aaca-ee6d-4125-820a-9db49ddfba9f.jpg?1782806376",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/4/4/4490aaca-ee6d-4125-820a-9db49ddfba9f.jpg?1782806376",
+          "status": "buy"
+        },
+        {
+          "id": "025deb4f-ec58-448c-a083-90bb554b8837",
+          "oracleId": "046e25ee-c96d-4cff-93be-f7e3379d713c",
+          "name": "Shinobi da Lâmina Lunar",
+          "originalName": "Moonblade Shinobi",
+          "quantity": 1,
+          "manaCost": "{3}{U}",
+          "cmc": 4,
+          "typeLine": "Creature — Human Ninja",
+          "printedTypeLine": "Criatura — Humano Ninja",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/0/2/025deb4f-ec58-448c-a083-90bb554b8837.jpg?1782919971",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/0/2/025deb4f-ec58-448c-a083-90bb554b8837.jpg?1782919971",
+          "status": "buy"
+        },
+        {
+          "id": "1f69f0bf-6626-4418-9335-b79d75c99df1",
+          "oracleId": "a1bdba37-f034-412f-8395-adbaed95ad11",
+          "name": "Biblioplex Kraken",
+          "originalName": null,
+          "quantity": 1,
+          "manaCost": "{4}{U}",
+          "cmc": 5,
+          "typeLine": "Creature — Kraken",
+          "printedTypeLine": null,
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/1/f/1f69f0bf-6626-4418-9335-b79d75c99df1.jpg?1783919194",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/1/f/1f69f0bf-6626-4418-9335-b79d75c99df1.jpg?1783919194",
+          "status": "buy"
+        },
+        {
+          "id": "00658e82-deed-49c1-b7e7-a9f204acc6a7",
+          "oracleId": "713332c1-5bd8-400f-bfff-c1ca0697a043",
+          "name": "Optar",
+          "originalName": "Opt",
+          "quantity": 1,
+          "manaCost": "{U}",
+          "cmc": 1,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/0/0/00658e82-deed-49c1-b7e7-a9f204acc6a7.jpg?1782812582",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/0/0/00658e82-deed-49c1-b7e7-a9f204acc6a7.jpg?1782812582",
+          "status": "buy"
+        },
+        {
+          "id": "76c2b333-037c-4952-9a3b-b39d49dd1f2b",
+          "oracleId": "4728e320-d29b-4019-8ab5-e45319c77c40",
+          "name": "Anticognição",
+          "originalName": "Anticognition",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/7/6/76c2b333-037c-4952-9a3b-b39d49dd1f2b.jpg?1782901186",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/7/6/76c2b333-037c-4952-9a3b-b39d49dd1f2b.jpg?1782901186",
+          "status": "buy"
+        },
+        {
+          "id": "f1ccb99c-6367-404b-8a7f-e707a8fc0e3e",
+          "oracleId": "eeae4161-9f35-45df-8b3c-c55e37f49cd1",
+          "name": "Deduzir",
+          "originalName": "Deduce",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/f/1/f1ccb99c-6367-404b-8a7f-e707a8fc0e3e.jpg?1782802792",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/f/1/f1ccb99c-6367-404b-8a7f-e707a8fc0e3e.jpg?1782802792",
+          "status": "buy"
+        },
+        {
+          "id": "43af317c-0893-404b-9a5d-e7b425116dd0",
+          "oracleId": "362fc643-ab76-4160-a73e-73397464db40",
+          "name": "Deliberar",
+          "originalName": "Deliberate",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/4/3/43af317c-0893-404b-9a5d-e7b425116dd0.jpg?1782901106",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/4/3/43af317c-0893-404b-9a5d-e7b425116dd0.jpg?1782901106",
+          "status": "buy"
+        },
+        {
+          "id": "ba752243-2727-4b8a-8e21-e70becfd4ff3",
+          "oracleId": "e060bf7a-f266-40b4-9772-e243dcbf965b",
+          "name": "Dreams of Laguna",
+          "originalName": null,
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Instant",
+          "printedTypeLine": null,
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/b/a/ba752243-2727-4b8a-8e21-e70becfd4ff3.jpg?1783906637",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/b/a/ba752243-2727-4b8a-8e21-e70becfd4ff3.jpg?1783906637",
+          "status": "buy"
+        },
+        {
+          "id": "a2f6865a-11b2-4507-8b0c-c9f69e3134d7",
+          "oracleId": "11e02134-7b1a-46a4-a89e-7539dd1efada",
+          "name": "Golpe Desdenhoso",
+          "originalName": "Disdainful Stroke",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/a/2/a2f6865a-11b2-4507-8b0c-c9f69e3134d7.jpg?1782814426",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/a/2/a2f6865a-11b2-4507-8b0c-c9f69e3134d7.jpg?1782814426",
+          "status": "buy"
+        },
+        {
+          "id": "715ff2c6-60b4-42b1-b4ea-c698303db1da",
+          "oracleId": "3407fe41-fdd3-4119-8f70-4bc4590a379f",
+          "name": "Negar",
+          "originalName": "Negate",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/7/1/715ff2c6-60b4-42b1-b4ea-c698303db1da.jpg?1782825314",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/7/1/715ff2c6-60b4-42b1-b4ea-c698303db1da.jpg?1782825314",
+          "status": "buy"
+        },
+        {
+          "id": "fb0f5e50-bed3-459d-9e72-8fe8da9b5894",
+          "oracleId": "75e8907d-f726-4a63-ba8b-c0fd4936734e",
+          "name": "Organizar",
+          "originalName": "Curate",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/f/b/fb0f5e50-bed3-459d-9e72-8fe8da9b5894.jpg?1795145855",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/f/b/fb0f5e50-bed3-459d-9e72-8fe8da9b5894.jpg?1795145855",
+          "status": "buy"
+        },
+        {
+          "id": "29db356b-8347-4498-8f1d-bae6fdbcfe55",
+          "oracleId": "05878e49-93ad-4144-9c50-a0bb86126c2e",
+          "name": "Traçar uma Rota",
+          "originalName": "Chart a Course",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Sorcery",
+          "printedTypeLine": "Feitiço",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/2/9/29db356b-8347-4498-8f1d-bae6fdbcfe55.jpg?1782808958",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/2/9/29db356b-8347-4498-8f1d-bae6fdbcfe55.jpg?1782808958",
+          "status": "buy"
+        },
+        {
+          "id": "2524a546-1d6b-4269-80d3-50c1e2881786",
+          "oracleId": "ccfb612a-762d-41a7-bc3d-268c6abf8e85",
+          "name": "Admonição do Encarcerador",
+          "originalName": "Arrester's Admonition",
+          "quantity": 1,
+          "manaCost": "{2}{U}",
+          "cmc": 3,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/2/5/2524a546-1d6b-4269-80d3-50c1e2881786.jpg?1782924870",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/2/5/2524a546-1d6b-4269-80d3-50c1e2881786.jpg?1782924870",
+          "status": "buy"
+        },
+        {
+          "id": "9a2f6d84-3d83-4f48-9906-11f681171930",
+          "oracleId": "0466f23c-d07c-4015-82d5-eab4b226f1ff",
+          "name": "Amazing Acrobatics",
+          "originalName": null,
+          "quantity": 1,
+          "manaCost": "{1}{U}{U}",
+          "cmc": 3,
+          "typeLine": "Instant",
+          "printedTypeLine": null,
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/9/a/9a2f6d84-3d83-4f48-9906-11f681171930.jpg?1783905357",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/9/a/9a2f6d84-3d83-4f48-9906-11f681171930.jpg?1783905357",
+          "status": "buy"
+        },
+        {
+          "id": "b21a1f6e-20fc-47c9-aa5b-b30be81eb5ff",
+          "oracleId": "4459117a-d11c-44f4-9aac-caefc5b2d6f2",
+          "name": "Calafrio Incapacitante",
+          "originalName": "Crippling Chill",
+          "quantity": 1,
+          "manaCost": "{2}{U}",
+          "cmc": 3,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/b/2/b21a1f6e-20fc-47c9-aa5b-b30be81eb5ff.jpg?1782968518",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/b/2/b21a1f6e-20fc-47c9-aa5b-b30be81eb5ff.jpg?1782968518",
+          "status": "buy"
+        },
+        {
+          "id": "d4f756f9-2274-4b72-adb1-e36794fc9777",
+          "oracleId": "2ee4f7ba-7238-44b5-8315-9f50502ed796",
+          "name": "Calafrio do Túmulo",
+          "originalName": "Chill of the Grave",
+          "quantity": 1,
+          "manaCost": "{2}{U}",
+          "cmc": 3,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/d/4/d4f756f9-2274-4b72-adb1-e36794fc9777.jpg?1782867134",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/d/4/d4f756f9-2274-4b72-adb1-e36794fc9777.jpg?1782867134",
+          "status": "buy"
+        },
+        {
+          "id": "dfbea9e9-8e12-4c43-9ded-da9dbc3ff955",
+          "oracleId": "7d00fb28-ea6c-49a9-b4af-ffb38860a9a7",
+          "name": "Cancelar",
+          "originalName": "Cancel",
+          "quantity": 1,
+          "manaCost": "{1}{U}{U}",
+          "cmc": 3,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/d/f/dfbea9e9-8e12-4c43-9ded-da9dbc3ff955.jpg?1782905833",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/d/f/dfbea9e9-8e12-4c43-9ded-da9dbc3ff955.jpg?1782905833",
+          "status": "buy"
+        },
+        {
+          "id": "36e9a6e9-1f9d-4860-97ee-f01e66f8eb4d",
+          "oracleId": "33f89437-885b-4850-88b7-239f5dfcc8b1",
+          "name": "Depower",
+          "originalName": null,
+          "quantity": 1,
+          "manaCost": "{2}{U}",
+          "cmc": 3,
+          "typeLine": "Instant",
+          "printedTypeLine": null,
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/3/6/36e9a6e9-1f9d-4860-97ee-f01e66f8eb4d.jpg?1783902960",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/3/6/36e9a6e9-1f9d-4860-97ee-f01e66f8eb4d.jpg?1783902960",
+          "status": "buy"
+        },
+        {
+          "id": "1e71210e-9503-4484-ba18-29c92cb00eb4",
+          "oracleId": "2f0741f9-802b-4761-8094-7b1f3ea1a424",
+          "name": "Dissolver",
+          "originalName": "Dissolve",
+          "owned": false,
+          "quantity": 1,
+          "manaCost": "{1}{U}{U}",
+          "cmc": 3,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/1/e/1e71210e-9503-4484-ba18-29c92cb00eb4.jpg?1794368869",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/1/e/1e71210e-9503-4484-ba18-29c92cb00eb4.jpg?1794368869"
+        },
+        {
+          "id": "c198e3c4-1707-4e67-8e1b-9f35f11837ff",
+          "oracleId": "a8c9f91a-b1e7-451d-b6db-ae865e2b853c",
+          "name": "Excluir",
+          "originalName": "Exclude",
+          "quantity": 1,
+          "manaCost": "{2}{U}",
+          "cmc": 3,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/c/1/c198e3c4-1707-4e67-8e1b-9f35f11837ff.jpg?1782920047",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/c/1/c198e3c4-1707-4e67-8e1b-9f35f11837ff.jpg?1782920047",
+          "status": "buy"
+        },
+        {
+          "id": "e67687b2-9b7b-47f9-b62f-720db11255ad",
+          "oracleId": "b90bc464-a95a-42e4-9d9a-4b0882eb57ba",
+          "name": "Não Disse Por Favor",
+          "originalName": "Didn't Say Please",
+          "quantity": 1,
+          "manaCost": "{1}{U}{U}",
+          "cmc": 3,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/e/6/e67687b2-9b7b-47f9-b62f-720db11255ad.jpg?1782913926",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/e/6/e67687b2-9b7b-47f9-b62f-720db11255ad.jpg?1782913926",
+          "status": "buy"
+        },
+        {
+          "id": "d727db00-4d41-4ee0-b6ca-2113b8050c5a",
+          "oracleId": "a352cc67-eae8-4fa5-abba-507821c4cf47",
+          "name": "Contato Extraplanar",
+          "originalName": "Contact Other Plane",
+          "quantity": 1,
+          "manaCost": "{3}{U}",
+          "cmc": 4,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/d/7/d727db00-4d41-4ee0-b6ca-2113b8050c5a.jpg?1782853469",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/d/7/d727db00-4d41-4ee0-b6ca-2113b8050c5a.jpg?1782853469",
+          "status": "buy"
+        },
+        {
+          "id": "bb1b36bb-1278-4b18-997b-588d95acb487",
+          "oracleId": "d7d2f701-77df-4169-bf98-0d51d6886e9b",
+          "name": "Contemplar o Multiverso",
+          "originalName": "Behold the Multiverse",
+          "owned": false,
+          "quantity": 2,
+          "manaCost": "{3}{U}",
+          "cmc": 4,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/b/b/bb1b36bb-1278-4b18-997b-588d95acb487.jpg?1782893777",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/b/b/bb1b36bb-1278-4b18-997b-588d95acb487.jpg?1782893777"
+        },
+        {
+          "id": "722cb793-b32a-4ec7-9789-aeec16d86ea8",
+          "oracleId": "575d067a-83a0-49e7-8a74-e3e46a946c8c",
+          "name": "Sondar o Terreno",
+          "originalName": "Case the Joint",
+          "quantity": 1,
+          "manaCost": "{3}{U}",
+          "cmc": 4,
+          "typeLine": "Instant",
+          "printedTypeLine": "Mágica Instantânea",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/7/2/722cb793-b32a-4ec7-9789-aeec16d86ea8.jpg?1782856613",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/7/2/722cb793-b32a-4ec7-9789-aeec16d86ea8.jpg?1782856613",
+          "status": "buy"
+        },
+        {
+          "id": "9d52f564-5996-46fa-8623-c72091d5d94e",
+          "oracleId": "452e3f5f-ce17-4682-966b-5cc100210aee",
+          "name": "Lasca-ossos",
+          "originalName": "Bonesplitter",
+          "owned": false,
+          "quantity": 1,
+          "manaCost": "{1}",
+          "cmc": 1,
+          "typeLine": "Artifact — Equipment",
+          "printedTypeLine": "Artefato — Equipamento",
+          "colors": [],
+          "colorIdentity": [],
+          "imageUrl": "https://cards.scryfall.io/normal/front/9/d/9d52f564-5996-46fa-8623-c72091d5d94e.jpg?1782896056",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/9/d/9d52f564-5996-46fa-8623-c72091d5d94e.jpg?1782896056"
+        },
+        {
+          "id": "ae3058e6-b5c1-4d29-a140-4462ed9d557b",
+          "oracleId": "7ac1aab0-9d2d-4fb7-b0bb-0af3e6d665db",
+          "name": "Arsenal de Iroas",
+          "originalName": "Armory of Iroas",
+          "quantity": 1,
+          "manaCost": "{2}",
+          "cmc": 2,
+          "typeLine": "Artifact — Equipment",
+          "printedTypeLine": "Artefato — Equipamento",
+          "colors": [],
+          "colorIdentity": [],
+          "imageUrl": "https://cards.scryfall.io/normal/front/a/e/ae3058e6-b5c1-4d29-a140-4462ed9d557b.jpg?1782897061",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/a/e/ae3058e6-b5c1-4d29-a140-4462ed9d557b.jpg?1782897061",
+          "status": "buy"
+        },
+        {
+          "id": "4a4e0cb3-5ba6-409f-a9b0-61f257434b86",
+          "oracleId": "83c69c05-173d-4c1b-9541-1dde474fef5f",
+          "name": "Aglomerado de Ossos",
+          "originalName": "Bonehoard",
+          "quantity": 1,
+          "manaCost": "{4}",
+          "cmc": 4,
+          "typeLine": "Artifact — Equipment",
+          "printedTypeLine": "Artefato — Equipamento",
+          "colors": [],
+          "colorIdentity": [],
+          "imageUrl": "https://cards.scryfall.io/normal/front/4/a/4a4e0cb3-5ba6-409f-a9b0-61f257434b86.jpg?1782863519",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/4/a/4a4e0cb3-5ba6-409f-a9b0-61f257434b86.jpg?1782863519",
+          "status": "buy"
+        },
+        {
+          "id": "85adc94e-761b-4b1e-ba76-2c89f0f14a62",
+          "oracleId": "b69d2bd6-3e99-4c51-89af-0acedd48739e",
+          "name": "Corda Puída",
+          "originalName": "Fraying Line",
+          "quantity": 1,
+          "manaCost": "{4}",
+          "cmc": 4,
+          "typeLine": "Artifact",
+          "printedTypeLine": "Artefato",
+          "colors": [],
+          "colorIdentity": [],
+          "imageUrl": "https://cards.scryfall.io/normal/front/8/5/85adc94e-761b-4b1e-ba76-2c89f0f14a62.jpg?1782851546",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/8/5/85adc94e-761b-4b1e-ba76-2c89f0f14a62.jpg?1782851546",
+          "status": "buy"
+        },
+        {
+          "id": "612d409c-f557-4af5-956b-e383fa9b2868",
+          "oracleId": "40eee955-bec6-455a-addf-68cdb84c76b9",
+          "name": "Voo Arcano",
+          "originalName": "Arcane Flight",
+          "quantity": 1,
+          "manaCost": "{U}",
+          "cmc": 1,
+          "typeLine": "Enchantment — Aura",
+          "printedTypeLine": "Encantamento — Aura",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/6/1/612d409c-f557-4af5-956b-e383fa9b2868.jpg?1782933714",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/6/1/612d409c-f557-4af5-956b-e383fa9b2868.jpg?1782933714",
+          "status": "buy"
+        },
+        {
+          "id": "339a0e24-c332-4558-bb60-f5504ddde88c",
+          "oracleId": "e75cee5d-ab02-4227-b36e-61c5d2f564a8",
+          "name": "Wingspan Stride",
+          "originalName": null,
+          "quantity": 1,
+          "manaCost": "{U}",
+          "cmc": 1,
+          "typeLine": "Enchantment — Aura",
+          "printedTypeLine": null,
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/3/3/339a0e24-c332-4558-bb60-f5504ddde88c.jpg?1783907384",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/3/3/339a0e24-c332-4558-bb60-f5504ddde88c.jpg?1783907384",
+          "status": "buy"
+        },
+        {
+          "id": "a900b29b-a66c-4692-9899-21459021c9a7",
+          "oracleId": "b07d8095-c5e2-4bf8-b055-af97ce5df4a4",
+          "name": "Asas Fantasmagóricas",
+          "originalName": "Ghostly Wings",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Enchantment — Aura",
+          "printedTypeLine": "Encantamento — Aura",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/a/9/a900b29b-a66c-4692-9899-21459021c9a7.jpg?1782953900",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/a/9/a900b29b-a66c-4692-9899-21459021c9a7.jpg?1782953900",
+          "status": "buy"
+        },
+        {
+          "id": "d7f4d07b-e15f-4fc4-8fcb-7f88f76aeb82",
+          "oracleId": "e0717287-9bff-446b-838d-6fc0adccc768",
+          "name": "Berço de Segurança",
+          "originalName": "Cradle of Safety",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Enchantment — Aura",
+          "printedTypeLine": "Encantamento — Aura",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/d/7/d7f4d07b-e15f-4fc4-8fcb-7f88f76aeb82.jpg?1782867111",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/d/7/d7f4d07b-e15f-4fc4-8fcb-7f88f76aeb82.jpg?1782867111",
+          "status": "buy"
+        },
+        {
+          "id": "de437d28-3007-4571-bc22-7fa7fd7079da",
+          "oracleId": "488696c2-b0c7-49be-a5a1-e833b6fd8751",
+          "name": "Cártula do Conhecimento",
+          "originalName": "Cartouche of Knowledge",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Enchantment — Aura Cartouche",
+          "printedTypeLine": "Encantamento — Aura Cártula",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/d/e/de437d28-3007-4571-bc22-7fa7fd7079da.jpg?1782943416",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/d/e/de437d28-3007-4571-bc22-7fa7fd7079da.jpg?1782943416",
+          "status": "buy"
+        },
+        {
+          "id": "f6c6984f-dac9-4ade-9b90-96c7a061e275",
+          "oracleId": "8a7643e4-b824-441a-bbe6-349fc7a3e11e",
+          "name": "Manto da Luz das Estrelas",
+          "originalName": "Starlit Mantle",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Enchantment — Aura",
+          "printedTypeLine": "Encantamento — Aura",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/f/6/f6c6984f-dac9-4ade-9b90-96c7a061e275.jpg?1782911661",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/f/6/f6c6984f-dac9-4ade-9b90-96c7a061e275.jpg?1782911661",
+          "status": "buy"
+        },
+        {
+          "id": "c7c29524-a055-4ec5-a4c3-5969bebe9dd0",
+          "oracleId": "9203bee0-718a-4ede-9556-5521417c4080",
+          "name": "Sintonia com o Vento",
+          "originalName": "One With the Wind",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Enchantment — Aura",
+          "printedTypeLine": "Encantamento — Aura",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/c/7/c7c29524-a055-4ec5-a4c3-5969bebe9dd0.jpg?1783103053",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/c/7/c7c29524-a055-4ec5-a4c3-5969bebe9dd0.jpg?1783103053",
+          "status": "buy"
+        },
+        {
+          "id": "ff74617b-51b3-49e9-a597-bc8bb8af794b",
+          "oracleId": "4be1ecd0-ee41-4ac0-9155-0fcae7a4d337",
+          "name": "Sombra de Enguia",
+          "originalName": "Eel Umbra",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Enchantment — Aura",
+          "printedTypeLine": "Encantamento — Aura",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/f/f/ff74617b-51b3-49e9-a597-bc8bb8af794b.jpg?1782874871",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/f/f/ff74617b-51b3-49e9-a597-bc8bb8af794b.jpg?1782874871",
+          "status": "buy"
+        },
+        {
+          "id": "57d210d7-fdfe-4001-b93b-5768899f1114",
+          "oracleId": "d127d1e6-f3a6-4f68-bea5-d7b4123476e5",
+          "name": "Vôo Espectral",
+          "originalName": "Spectral Flight",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Enchantment — Aura",
+          "printedTypeLine": "Encantamento — Aura",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/5/7/57d210d7-fdfe-4001-b93b-5768899f1114.jpg?1782987997",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/5/7/57d210d7-fdfe-4001-b93b-5768899f1114.jpg?1782987997",
+          "status": "buy"
+        },
+        {
+          "id": "1555da90-bc0a-4664-9b6a-35ec4e4896f5",
+          "oracleId": "d3912c82-37f8-456e-ba49-65c7f5b39d13",
+          "name": "Voo Feérico",
+          "originalName": "Fae Flight",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Enchantment — Aura",
+          "printedTypeLine": "Encantamento — Aura",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/1/5/1555da90-bc0a-4664-9b6a-35ec4e4896f5.jpg?1782802772",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/1/5/1555da90-bc0a-4664-9b6a-35ec4e4896f5.jpg?1782802772",
+          "status": "buy"
+        },
+        {
+          "id": "d34acd18-ad99-468d-b503-b0f58516a13a",
+          "oracleId": "b2c6aa39-2d2a-459c-a555-fb48ba993373",
+          "name": "Ilha",
+          "originalName": "Island",
+          "owned": false,
+          "quantity": 35,
+          "manaCost": "",
+          "cmc": 0,
+          "typeLine": "Basic Land — Island",
+          "printedTypeLine": "Terreno Básico — Ilha",
+          "colors": [],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/d/3/d34acd18-ad99-468d-b503-b0f58516a13a.jpg?1782792358",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/d/3/d34acd18-ad99-468d-b503-b0f58516a13a.jpg?1782792358"
+        },
+        {
+          "id": "3fd34a79-6612-4ac0-9f10-c4e3a9915748",
+          "oracleId": "fc7c0197-bfa1-43b8-87c8-f134192b14c0",
+          "name": "Gárgula de Vantreza",
+          "originalName": "Vantress Gargoyle",
+          "status": "buy",
+          "quantity": 1,
+          "manaCost": "{1}{U}",
+          "cmc": 2,
+          "typeLine": "Artifact Creature — Gargoyle",
+          "printedTypeLine": "Criatura Artefato — Gárgula",
+          "colors": [
+            "U"
+          ],
+          "colorIdentity": [
+            "U"
+          ],
+          "imageUrl": "https://cards.scryfall.io/normal/front/3/f/3fd34a79-6612-4ac0-9f10-c4e3a9915748.jpg?1782913709",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/3/f/3fd34a79-6612-4ac0-9f10-c4e3a9915748.jpg?1782913709"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "theme": "dark"
+  }
+}
